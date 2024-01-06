@@ -14,4 +14,5 @@ Sponsor my project here: [![Sponsor](https://img.shields.io/badge/Sponsor-Donate
 Avaiable Functions:
 -  Mean
 -  Median
+-  Two-Way Anova
 -  In Progress...

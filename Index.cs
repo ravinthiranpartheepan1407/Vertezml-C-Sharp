@@ -12,5 +12,9 @@ namespace vertezml
         {
             return MeanOp.Mean(values);
         }
+        public static double Median(List<double> values)
+        {
+            return MedianOp.Median(values);
+        }
     }
 }

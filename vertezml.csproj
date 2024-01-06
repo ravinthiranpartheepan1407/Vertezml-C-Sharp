@@ -16,6 +16,7 @@ At Vertez, we believe in democratizing access to advanced statistical techniques
     <PackageTags>machine-learning; data-science; C#; probability; statistics</PackageTags>
     <Company>Vertezml</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

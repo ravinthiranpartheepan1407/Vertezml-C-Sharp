@@ -10,7 +10,7 @@ namespace vertezml
     {
         public static double Mean(List<double> values)
         {
-            return MeanOp.CalculateMean(values);
+            return MeanOp.Mean(values);
         }
     }
 }

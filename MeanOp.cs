@@ -8,7 +8,7 @@ namespace vertezml
 {
     public static class MeanOp
     {
-        public static double CalculateMean(List<double> values)
+        public static double Mean(List<double> values)
         {
             int elements;
             double sum = 0;
